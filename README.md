@@ -1,8 +1,9 @@
 # Early Fault Detection for Induction Motors using ML
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
-![Platform](https://img.shields.io/badge/platform-MATLAB%20%7C%20Simulink-red.svg)
+![Platform](https://img.shields.io/badge/platform-MATLAB%20%7C%20Simulink-blue.svg)
+![Platform](https://img.shields.io/badge/Tool-Simulink-pink.svg)
 ![Environment](https://img.shields.io/badge/environment-ML%20Workspace-orange.svg)
-![Language](https://img.shields.io/badge/language-MATLAB%20%7C%20Python-blue.svg)
+![Language](https://img.shields.io/badge/language-MATLAB-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d5f39007-4004-4a30-83f8-8ba946059bac" />
