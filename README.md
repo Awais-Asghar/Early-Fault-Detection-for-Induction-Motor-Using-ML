@@ -1,4 +1,4 @@
-# Early Fault Detection for Induction Motors using ML
+<img width="2040" height="81" alt="image" src="https://github.com/user-attachments/assets/d95dd232-e627-4df2-8124-3052c90c2d23" /># Early Fault Detection for Induction Motors using ML
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-MATLAB-blue.svg)
 ![Platform](https://img.shields.io/badge/Tool-Simulink-pink.svg)
@@ -17,6 +17,12 @@ This project presents an integrated MATLAB–Machine Learning framework for earl
 - Machine Learning–based fault classification (KNN, Decision Tree)
 - Unified framework for predictive maintenance
 - Enhanced operational reliability and reduced downtime
+
+
+## Dataset Link: 
+
+https://ieee-dataport.org/open-access/experimental-database-detecting-and-diagnosing-rotor-broken-bar-three-phase-induction 
+
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ce8eceb1-e7cd-47b3-adc0-a42a75f6b1a1" />
 
