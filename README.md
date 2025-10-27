@@ -16,7 +16,7 @@ This project presents an integrated MATLAB–Machine Learning framework for earl
 - Six fault condition monitoring and diagnosis
 - Machine Learning–based fault classification (KNN, Decision Tree)
 - Unified framework for predictive maintenance
-- Enhanced operational reliability and reduced downtime
+- Enhanced operational reliability and reduced downtime.
 
 ## Dataset Link: 
 
